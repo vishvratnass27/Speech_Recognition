@@ -15,7 +15,7 @@ This repository contains a Python script for simple speech recognition using the
    pip install text_to_speech
    ```
 
-3. Run the Python script `speech_recognition_with_feedback.py` to use the speech recognition feature with text-to-speech feedback.
+3. Run the Python script `speech_recognition.py` to use the speech recognition feature with text-to-speech feedback.
 
 ## How it Works
 
