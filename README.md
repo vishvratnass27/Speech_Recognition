@@ -6,7 +6,7 @@ This repository contains a Python script for simple speech recognition using the
 
 1. Clone the repository to your local machine:
    ```
-   git clone [[repository_url]](https://github.com/vishvratnass27/Speech_Recognition.git)
+   git clone (https://github.com/vishvratnass27/Speech_Recognition.git)
    ```
 
 2. Install the required Python libraries:
