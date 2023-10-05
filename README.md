@@ -33,7 +33,7 @@ This repository contains a Python script for simple speech recognition using the
 
 ## Example Usage
 
-- In the example provided, the script listens for 5 seconds (`duration = 5`) but you can adjust this as needed.
+- In the example provided, the script listens for 5 seconds (`duration = 10`) but you can adjust this as needed.
 
 - Run the script and speak into your microphone. It will transcribe what you say and provide audio feedback with the result.
 
